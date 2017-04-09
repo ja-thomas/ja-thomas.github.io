@@ -40,7 +40,7 @@ You can find out more about my research at my
 
 ## Open Source Software
 
-I actively contribute to open source developement, most projects are R based and can be found on [github](https://github.com/ja-thomas).
+I actively contribute to open source development, most projects are R based and can be found on [github](https://github.com/ja-thomas).
 
 
 Project | Description
