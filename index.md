@@ -48,7 +48,6 @@ Project | Description
 [mlr](https://github.com/mlr-org/mlr) |  General machine learning framework in R, unified interface for a lot of common machine learning tasks.
 [mlrMBO](https://github.com/mlr-org/mlrMBO) | Model-Based optimization / Bayesian optimization toolbox.
 [gamboostLSS](https://github.com/boost-R/gamboostLSS) | Framework for boosting distributional regression models.
-[openml-r](https://github.com/openml/openml-r) | R interface to the [OpenML](https://www.openml.org/) project for collaborative machine learning.
 [autoxgboost](https://github.com/ja-thomas/autoxgboost) | Automatic tuning and fitting of gradient boosting models utilizing both [mlr](https://github.com/mlr-org/mlr) and [mlrMBO](https://github.com/mlr-org/mlrMBO). Still in a pretty early stage.
 
 We also have a [blog](https://www.mlr-org.github.io) for mlr (and mlrMBO), where updates and projects are collected.
