@@ -31,6 +31,7 @@ Write everything in Sublime Text 3 and send it to tmux.
 - vim: For editing stuff without a GUI
 - [rstudio](https://www.rstudio.com/products/rstudio/download/): R IDE. I use this for teaching
 - IPython: Nicer Python REPL
+- [ack](https://beyondgrep.com/): Fast search in code base
 
 
 ## Sublime Packages
