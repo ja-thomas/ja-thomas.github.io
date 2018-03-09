@@ -5,11 +5,11 @@ is_contact: true
 
 * Email:
     1. Work: [janek.thomas@stat.uni-muenchen.de](mailto:janek.thomas@stat.uni-muenchen.de)
-    2. Private: [janek.tho@gmail.com](mailto:janek.tho@gmail.com)
+    2. Private: [contact@janek.thomas.de](mailto:contact@janek.thomas.de)
 
 * Phone:
     1. Work: [+49 89 2180 3196](tel:+49 89 2180 3196)
-    2. Private: (Redacted)
+    2. Private: (redacted)
 
 ---
 

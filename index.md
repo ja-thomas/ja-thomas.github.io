@@ -8,12 +8,13 @@ layout: default
 
 Hi! My name is Janek. Yes, Janek is actually my first name and Thomas my surname.
 
-I'm Data Scientist/Statistician/Researcher/Open Source Developer/...
+I'm a Data Scientist/Statistician/Researcher/Open Source Developer/...
 
 Officially I am a Ph.D. student at the [Ludwig Maximilians Unversity](http://www.statistik.lmu.de) in the working group [computational statistics](http://www.compstat.statistik.uni-muenchen.de).
 
 ## News
 
+* 08/03/2018: Added a page about my development setup [here](/dev_setup).
 * 09/04/2017: I'm in Seattle from June to September, If you want to meet up shoot me a message.
 * 09/04/2017: Started this website, but don't expect very much updates here.
 
@@ -28,7 +29,7 @@ If you are interested in helping with the organization any of the above groups, 
 ## Research
 
 Most of my research is in predictive modeling and general machine learning.
-Especially Gradient Boosting (Tree-based, Model-based and distributional), high-dimensional variable selection, automatic machine learning and machine learning pipeline configuration.
+Especially Gradient Boosting (Tree-based, Model-based and distributional), automatic machine learning, bayesian optimization and machine learning pipeline configuration.
 
 You can find out more about my research at my
 
@@ -55,7 +56,7 @@ We also have a [blog](https://www.mlr-org.github.io) for mlr (and mlrMBO), where
 
 ## Misc
 
-Except for all this nerdy stuff, I like hiking, climbing, traveling, board games, video games, good beer, whisky, ...
+Except for all this nerdy stuff, I like hiking, climbing, traveling, board games, video games, whisky, ...
 
 If you want to know anything else just [send me a message](/contact), I'm almost always happy to talk about data related stuff.
 
