@@ -40,6 +40,7 @@ Write everything in Sublime Text 3 and send it to tmux.
 - LaTeXing & LaTeX-cwl: Latex tools
 - R-Box: R tools
 - Anaconda: Python tools
+- rsub: Edit files over ssh
 - Git-gutter: Git indicators
 - SideBarEnhancements
 
@@ -79,6 +80,15 @@ Magrittr pipe:
 > alias gl="git log --pretty=format:'%ad \| %s%d [%an]' --graph --date=short"
 >
 > alias gcm='git commit -m "$(curl http://whatthecommit.com/ \| grep -A1 content \| tail -n 1 \| cut -c 4-)"'
+>
+> alias gfuck='ga . && gcm && gpush'
+>
+> alias ginfo='git remote show origin'
+>
+> gclone() {
+>   remote=${2:-github.com}
+>   git clone git@$remote:$1.git
+> }
 
 - mergtool: meld
 
