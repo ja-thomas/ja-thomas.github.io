@@ -50,6 +50,7 @@ Project | Description
 [mlrMBO](https://github.com/mlr-org/mlrMBO) | Model-Based optimization / Bayesian optimization toolbox.
 [gamboostLSS](https://github.com/boost-R/gamboostLSS) | Framework for boosting distributional regression models.
 [autoxgboost](https://github.com/ja-thomas/autoxgboost) | Automatic tuning and fitting of gradient boosting models utilizing both [mlr](https://github.com/mlr-org/mlr) and [mlrMBO](https://github.com/mlr-org/mlrMBO). Still in a pretty early stage.
+[hyperbandr](https://github.com/ja-thomas/hyperbandr) | General and extendable implementation of the hyperband algorithm using R6.
 
 We also have a [blog](https://www.mlr-org.github.io) for mlr (and mlrMBO), where updates and projects are collected.
 

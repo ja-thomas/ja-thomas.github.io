@@ -18,6 +18,12 @@ I run it on Linux (Ubuntu, current LTS), but should also work on MacOS.
 - I'm too stupid to properly configure vim
 
 
+## Makefile
+
+This is rather new, but I have a makefile for most of the setup here working for Ubuntu 18LTS:
+
+- https://github.com/ja-thomas/ubuntu_makefile/blob/master/Makefile
+
 ## General Workflow
 
 Write everything in Sublime Text 3 and send it to tmux.
@@ -29,10 +35,10 @@ Write everything in Sublime Text 3 and send it to tmux.
 - [Sublime Text 3](https://www.sublimetext.com/docs/3/linux_repositories.html): Editor
 - tmux: Terminal multiplexer
 - vim: For editing stuff without a GUI
-- [rstudio](https://www.rstudio.com/products/rstudio/download/): R IDE. I use this for teaching
+- [rstudio](https://www.rstudio.com/products/rstudio/download/): R IDE. I use this only for teaching
 - IPython: Nicer Python REPL
 - [ack](https://beyondgrep.com/): Fast search in code base
-
+- git: version control
 
 ## Sublime Packages
 
