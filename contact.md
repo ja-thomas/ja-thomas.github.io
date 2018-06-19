@@ -41,7 +41,7 @@ is_contact: true
 
 ### Research
 
-1. [University webpage](http://www.compstat.statistik.uni-muenchen.de/people/thomas/)
+1. [University webpage](https://www.compstat.statistik.uni-muenchen.de/people/thomas/)
 2. [Research Gate](https://www.researchgate.net/profile/Janek_Thomas)
 3. [Google Scholar](https://scholar.google.de/citations?user=K4_Y1z4AAAAJ&hl=en)
 

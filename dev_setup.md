@@ -85,7 +85,7 @@ Magrittr pipe:
 >
 > alias gl="git log --pretty=format:'%ad \| %s%d [%an]' --graph --date=short"
 >
-> alias gcm='git commit -m "$(curl http://whatthecommit.com/ \| grep -A1 content \| tail -n 1 \| cut -c 4-)"'
+> alias gcm='git commit -m "$(curl https://whatthecommit.com/ \| grep -A1 content \| tail -n 1 \| cut -c 4-)"'
 >
 > alias gfuck='ga . && gcm && gpush'
 >

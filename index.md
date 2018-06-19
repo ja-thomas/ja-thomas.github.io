@@ -10,7 +10,7 @@ Hi! My name is Janek.
 
 I'm a Data Scientist/Statistician/Researcher/Open Source Developer/...
 
-Officially I am a Ph.D. student at the [Ludwig Maximilians Unversity](http://www.statistik.lmu.de) in the working group [computational statistics](http://www.compstat.statistik.uni-muenchen.de).
+Officially I am a Ph.D. student at the [Ludwig Maximilians Unversity](https://www.statistik.lmu.de) in the working group [computational statistics](https://www.compstat.statistik.uni-muenchen.de).
 
 ## News
 
@@ -34,7 +34,7 @@ Especially Gradient Boosting (Tree-based, Model-based and distributional), autom
 
 You can find out more about my research at my
 
-1. [University's webpage](http://www.compstat.statistik.uni-muenchen.de/people/thomas/)
+1. [University's webpage](https://www.compstat.statistik.uni-muenchen.de/people/thomas/)
 2. [Google Scholar](https://scholar.google.de/citations?user=K4_Y1z4AAAAJ&hl=en).
 3. [Research Gate](https://www.researchgate.net/profile/Janek_Thomas)
 
