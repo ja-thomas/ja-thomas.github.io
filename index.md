@@ -14,6 +14,7 @@ Officially I am a Ph.D. student at the [Ludwig Maximilians Unversity](http://www
 
 ## News
 
+* 19/06/2018: Now with https
 * 08/03/2018: Added a page about my development setup [here](/dev_setup).
 * 09/04/2017: I'm in Seattle from June to September, If you want to meet up shoot me a message.
 * 09/04/2017: Started this website, but don't expect very much updates here.
