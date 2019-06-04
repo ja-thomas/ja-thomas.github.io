@@ -1,3 +1,6 @@
+- name: "Impressum"
+  link: "legal"
+
 - name: "Contact"
   link: "contact"
 
